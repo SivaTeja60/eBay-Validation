@@ -1,3 +1,12 @@
+Spring Boot Web Application for Item Validation
+
+# Technologies used:
+- [x] Java
+- [x] Spring Boot
+- [x] Postman
+- [x] IntelliJ Idea
+
+## Sample Test Cases
 ```
 status code : 200
 curl --location --request POST 'localhost:8080/api/items/validate' \
